@@ -17,3 +17,5 @@ build
 *db
 *pyc
 config.toml
+.mypy_cache
+.vscode
