@@ -1,0 +1,1 @@
+aiohttp_socks==0.8.0
